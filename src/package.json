@@ -1,0 +1,19 @@
+{
+  "name": "social-media-backend",
+  "version": "1.0.0",
+  "description": "This is the backend project of the social media application. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhadikazemian/Social-Media-App-Backend.git"
+  },
+  "author": "Hadi Kazemian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhadikazemian/Social-Media-App-Backend/issues"
+  },
+  "homepage": "https://github.com/mhadikazemian/Social-Media-App-Backend#readme"
+}
