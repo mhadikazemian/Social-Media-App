@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mhadikazemian/Social-Media-App-Backend/issues"
   },
-  "homepage": "https://github.com/mhadikazemian/Social-Media-App-Backend#readme"
+  "homepage": "https://github.com/mhadikazemian/Social-Media-App-Backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
 }
