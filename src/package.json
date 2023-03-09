@@ -25,6 +25,7 @@
     "supertest": "^6.3.3"
   },
   "dependencies": {
+    "config": "^3.3.9",
     "express": "^4.18.2"
   }
 }
