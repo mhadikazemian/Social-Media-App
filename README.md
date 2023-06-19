@@ -1,4 +1,4 @@
-# Social-Media-App
+# Social Media App Backend (WIP)
 
 This is an ongoing implementation of a social media application built with React and Node.js. It allows users to connect with each other, share content, and engage in conversations.
 
