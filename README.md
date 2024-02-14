@@ -22,4 +22,6 @@ Installation:
 Contributing:
 I welcome contributions to this project. Please feel free to submit pull requests or open issues.
 
-**To Be Continued ...**
+**Update: This project is archived and won't be maintained anymore!**
+
+
